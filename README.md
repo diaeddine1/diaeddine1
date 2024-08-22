@@ -67,4 +67,4 @@
 
 <br/>
 
-![snake gif](https://github.com/diaeddine1/diaeddine1/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/diaeddine1/diaeddine1/blob/output/github-contribution-grid-snake.svg)
