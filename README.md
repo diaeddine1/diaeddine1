@@ -41,14 +41,6 @@
 <br/>
 <hr/>
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="[https://raw.githubusercontent.com/diaeddine1/diaeddine1/output/github-contribution-grid-snake.svg](https://github-readme-streak-stats.herokuapp.com/?user=diaeddine1&theme=dark&hide_border=true)" />
-  
-  <br/><br/><br/>
-</div>
-
 <hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
