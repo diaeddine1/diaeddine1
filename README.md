@@ -30,7 +30,10 @@
 </div>
 
 <div align="center"> 
-    Visit My Portfolio
+    <h3>
+          Visit My Portfolio
+    </h3>
+  
 <a href="https://portfolio-ten-swart-96.vercel.app" target="_blank">
     
 <img src="https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white"  target="_blank"/>
