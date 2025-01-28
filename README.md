@@ -29,6 +29,7 @@
   </a>
 
 <a href="https://portfolio-ten-swart-96.vercel.app" target="_blank">
+    Visit My Portfolio
     <img src="https://img.shields.io/badge/Google%20Chrome-4285F4?logo=GoogleChrome&logoColor=white"  target="_blank"/>
 </a>
   
