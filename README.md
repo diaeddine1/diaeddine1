@@ -21,6 +21,9 @@
  </div>
  
 <div align="center"> 
+     <h3>
+          Contact Me :
+    </h3>
   <a href="mailto:aberane.dia@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
